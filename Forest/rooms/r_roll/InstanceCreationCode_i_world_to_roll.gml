@@ -1,0 +1,1 @@
+global.item[0] = global.inventory[0];
